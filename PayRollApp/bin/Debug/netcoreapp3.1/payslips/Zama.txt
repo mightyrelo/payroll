@@ -1,0 +1,11 @@
+PAYSLIP FOR Jul 2023
+=============================
+Name of Staff: Zama
+Hours worked: 88
+
+Basic Pay: R2 640,00
+Overtime Pay: R0,00
+
+================================
+Total Pay: R2 640,00
+================================

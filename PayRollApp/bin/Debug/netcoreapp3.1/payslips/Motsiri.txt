@@ -1,0 +1,11 @@
+PAYSLIP FOR Jul 2023
+=============================
+Name of Staff: Motsiri
+Hours worked: 2
+
+Basic Pay: R60,00
+Overtime Pay: R0,00
+
+================================
+Total Pay: R60,00
+================================

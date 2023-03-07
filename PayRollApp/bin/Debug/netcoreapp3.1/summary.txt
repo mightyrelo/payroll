@@ -1,0 +1,6 @@
+Staff with less than 10 hours worked
+
+1 Name of staff: Jabulani, Hours worked: 3
+2 Name of staff: Katlego, Hours worked: 4
+3 Name of staff: Motsiri, Hours worked: 2
+4 Name of staff: Shandukani, Hours worked: 6

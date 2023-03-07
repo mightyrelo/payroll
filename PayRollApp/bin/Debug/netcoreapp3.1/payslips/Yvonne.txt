@@ -1,0 +1,11 @@
+PAYSLIP FOR Nov 2022
+=============================
+Name of Staff: Yvonne
+Hours worked: 1
+
+Basic Pay: R40,00
+Allowance: R1 000,00
+
+================================
+Total Pay: R40,00
+================================

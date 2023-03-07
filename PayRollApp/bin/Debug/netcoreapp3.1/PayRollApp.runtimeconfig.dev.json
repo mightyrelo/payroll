@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Engipreneur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Engipreneur\\.nuget\\packages"
+    ]
+  }
+}

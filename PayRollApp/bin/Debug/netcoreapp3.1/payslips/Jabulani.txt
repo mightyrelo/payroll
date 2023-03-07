@@ -1,0 +1,11 @@
+PAYSLIP FOR Jul 2023
+=============================
+Name of Staff: Jabulani
+Hours worked: 3
+
+Basic Pay: R90,00
+Overtime Pay: R0,00
+
+================================
+Total Pay: R90,00
+================================

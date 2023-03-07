@@ -1,0 +1,11 @@
+PAYSLIP FOR Nov 2022
+=============================
+Name of Staff: Innocentia
+Hours worked: 4
+
+Basic Pay: R120,00
+Overtime Pay: R0,00
+
+================================
+Total Pay: R120,00
+================================

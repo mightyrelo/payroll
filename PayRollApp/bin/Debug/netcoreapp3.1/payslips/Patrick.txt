@@ -1,0 +1,11 @@
+PAYSLIP FOR Nov 2022
+=============================
+Name of Staff: Patrick
+Hours worked: 3
+
+Basic Pay: R120,00
+Allowance: R1 000,00
+
+================================
+Total Pay: R120,00
+================================

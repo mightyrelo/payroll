@@ -1,0 +1,11 @@
+PAYSLIP FOR Jul 2023
+=============================
+Name of Staff: Katlego
+Hours worked: 4
+
+Basic Pay: R160,00
+Allowance: R1 000,00
+
+================================
+Total Pay: R160,00
+================================

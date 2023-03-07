@@ -1,0 +1,14 @@
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\bin\Debug\netcoreapp3.1\PayRollApp.exe
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\bin\Debug\netcoreapp3.1\PayRollApp.deps.json
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\bin\Debug\netcoreapp3.1\PayRollApp.runtimeconfig.json
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\bin\Debug\netcoreapp3.1\PayRollApp.runtimeconfig.dev.json
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\bin\Debug\netcoreapp3.1\PayRollApp.dll
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\bin\Debug\netcoreapp3.1\PayRollApp.pdb
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.csproj.AssemblyReference.cache
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.AssemblyInfoInputs.cache
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.AssemblyInfo.cs
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.csproj.CoreCompileInputs.cache
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.dll
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.pdb
+C:\Users\Engipreneur\source\repos\PayRollApp\PayRollApp\obj\Debug\netcoreapp3.1\PayRollApp.genruntimeconfig.cache

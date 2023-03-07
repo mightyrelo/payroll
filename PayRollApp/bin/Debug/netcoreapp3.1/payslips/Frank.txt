@@ -1,0 +1,11 @@
+PAYSLIP FOR Jul 2023
+=============================
+Name of Staff: Frank
+Hours worked: 180
+
+Basic Pay: R5 400,00
+Overtime Pay: R310,00
+
+================================
+Total Pay: R5 710,00
+================================

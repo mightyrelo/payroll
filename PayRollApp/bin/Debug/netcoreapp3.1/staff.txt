@@ -1,0 +1,6 @@
+Katlego, Manager
+Shandukani, Manager
+Jabulani, Admin
+Motsiri, Admin
+Zama, Admin
+Frank, Admin

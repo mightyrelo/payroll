@@ -1,0 +1,11 @@
+PAYSLIP FOR Nov 2022
+=============================
+Name of Staff: James
+Hours worked: 2
+
+Basic Pay: R60,00
+Overtime Pay: R0,00
+
+================================
+Total Pay: R60,00
+================================

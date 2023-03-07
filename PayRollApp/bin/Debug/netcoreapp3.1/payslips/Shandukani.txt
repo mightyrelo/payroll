@@ -1,0 +1,11 @@
+PAYSLIP FOR Jul 2023
+=============================
+Name of Staff: Shandukani
+Hours worked: 6
+
+Basic Pay: R240,00
+Allowance: R1 000,00
+
+================================
+Total Pay: R240,00
+================================

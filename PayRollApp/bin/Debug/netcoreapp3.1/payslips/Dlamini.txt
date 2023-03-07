@@ -1,0 +1,11 @@
+PAYSLIP FOR Nov 2022
+=============================
+Name of Staff: Dlamini
+Hours worked: 5
+
+Basic Pay: R150,00
+Overtime Pay: R0,00
+
+================================
+Total Pay: R150,00
+================================

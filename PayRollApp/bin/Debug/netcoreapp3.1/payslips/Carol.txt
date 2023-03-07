@@ -1,0 +1,11 @@
+PAYSLIP FOR Nov 2022
+=============================
+Name of Staff: Carol
+Hours worked: 8
+
+Basic Pay: R240,00
+Overtime Pay: R0,00
+
+================================
+Total Pay: R240,00
+================================
